@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587309092 source:e:\personal\repository\mini projects with documentation\specialpythagoreantriplet\#12projecteuler\main.cpp
+	<iostream>
+	<math.h>
+
